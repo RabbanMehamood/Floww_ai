@@ -1,2 +1,2 @@
-# Floww_ai
+# floww-ai
 Backend Assignment Floww_ai
